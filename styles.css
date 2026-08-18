@@ -119,7 +119,7 @@ a {
   text-align: center;
 }
 
-#rectangle {
+.rectangle {
   width: 150px;
   height: 150px;
   box-sizing: border-box;
